@@ -4,6 +4,7 @@ Rodney How's NASA Soar data.
 Record/field layout
 
 Project global variables here:
+##
 Columns Quantity
 1-4     Year
 5-6     Month
