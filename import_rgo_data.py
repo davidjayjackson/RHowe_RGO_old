@@ -45,8 +45,7 @@ import datetime
 from os import path
 import filecmp
 
-
-project_path = './'
+project_path = 'C:/Users/davidjayjackson/Documents/R/RHowe_RGO/'
 to_import_folder = path.join(project_path, 'to_import')
 print ("to_import_folder")
 imported_folder = path.join(project_path, 'imported')
